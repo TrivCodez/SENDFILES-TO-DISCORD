@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # Set the webhook URL
-WEBHOOK_URL="https://discord.com/api/webhooks/1190148990877048892/BLCBiNhgxyXRL78Lkyxdk866_oqUMu9gmoL9aqcKXYeL79Vh7-ef3Kx1LBm-T0LdzRCT"
-
+WEBHOOK_URL=""
 # Get the current directory
 CURRENT_DIR=$(pwd)
 
